@@ -1,0 +1,747 @@
+[
+  {
+    "Departamento": "Amazonas",
+    "Rango Edad": "0-17",
+    "Cantidad": 1830
+  },
+  {
+    "Departamento": "Amazonas",
+    "Rango Edad": "18-29",
+    "Cantidad": 5673
+  },
+  {
+    "Departamento": "Amazonas",
+    "Rango Edad": "30-39",
+    "Cantidad": 4806
+  },
+  {
+    "Departamento": "Amazonas",
+    "Rango Edad": "40-49",
+    "Cantidad": 2609
+  },
+  {
+    "Departamento": "Amazonas",
+    "Rango Edad": "50-59",
+    "Cantidad": 1680
+  },
+  {
+    "Departamento": "Amazonas",
+    "Rango Edad": "60-69",
+    "Cantidad": 1075
+  },
+  {
+    "Departamento": "Amazonas",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 375
+  },
+  {
+    "Departamento": "Antioquía",
+    "Rango Edad": "0-17",
+    "Cantidad": 122565
+  },
+  {
+    "Departamento": "Antioquía",
+    "Rango Edad": "18-29",
+    "Cantidad": 320586
+  },
+  {
+    "Departamento": "Antioquía",
+    "Rango Edad": "30-39",
+    "Cantidad": 385092
+  },
+  {
+    "Departamento": "Antioquía",
+    "Rango Edad": "40-49",
+    "Cantidad": 252838
+  },
+  {
+    "Departamento": "Antioquía",
+    "Rango Edad": "50-59",
+    "Cantidad": 175029
+  },
+  {
+    "Departamento": "Antioquía",
+    "Rango Edad": "60-69",
+    "Cantidad": 95965
+  },
+  {
+    "Departamento": "Antioquía",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 38021
+  },
+  {
+    "Departamento": "Arauca",
+    "Rango Edad": "0-17",
+    "Cantidad": 541
+  },
+  {
+    "Departamento": "Arauca",
+    "Rango Edad": "18-29",
+    "Cantidad": 1648
+  },
+  {
+    "Departamento": "Arauca",
+    "Rango Edad": "30-39",
+    "Cantidad": 1609
+  },
+  {
+    "Departamento": "Arauca",
+    "Rango Edad": "40-49",
+    "Cantidad": 957
+  },
+  {
+    "Departamento": "Arauca",
+    "Rango Edad": "50-59",
+    "Cantidad": 715
+  },
+  {
+    "Departamento": "Arauca",
+    "Rango Edad": "60-69",
+    "Cantidad": 399
+  },
+  {
+    "Departamento": "Arauca",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 135
+  },
+  {
+    "Departamento": "Atlantico",
+    "Rango Edad": "0-17",
+    "Cantidad": 17106
+  },
+  {
+    "Departamento": "Atlantico",
+    "Rango Edad": "18-29",
+    "Cantidad": 17166
+  },
+  {
+    "Departamento": "Atlantico",
+    "Rango Edad": "30-39",
+    "Cantidad": 21373
+  },
+  {
+    "Departamento": "Atlantico",
+    "Rango Edad": "40-49",
+    "Cantidad": 20444
+  },
+  {
+    "Departamento": "Atlantico",
+    "Rango Edad": "50-59",
+    "Cantidad": 16877
+  },
+  {
+    "Departamento": "Atlantico",
+    "Rango Edad": "60-69",
+    "Cantidad": 9993
+  },
+  {
+    "Departamento": "Atlantico",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 4494
+  },
+  {
+    "Departamento": "Bogotá",
+    "Rango Edad": "0-17",
+    "Cantidad": 350273
+  },
+  {
+    "Departamento": "Bogotá",
+    "Rango Edad": "18-29",
+    "Cantidad": 717772
+  },
+  {
+    "Departamento": "Bogotá",
+    "Rango Edad": "30-39",
+    "Cantidad": 927942
+  },
+  {
+    "Departamento": "Bogotá",
+    "Rango Edad": "40-49",
+    "Cantidad": 688856
+  },
+  {
+    "Departamento": "Bogotá",
+    "Rango Edad": "50-59",
+    "Cantidad": 493989
+  },
+  {
+    "Departamento": "Bogotá",
+    "Rango Edad": "60-69",
+    "Cantidad": 282875
+  },
+  {
+    "Departamento": "Bogotá",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 114575
+  },
+  {
+    "Departamento": "Bolivar",
+    "Rango Edad": "0-17",
+    "Cantidad": 86358
+  },
+  {
+    "Departamento": "Bolivar",
+    "Rango Edad": "18-29",
+    "Cantidad": 211045
+  },
+  {
+    "Departamento": "Bolivar",
+    "Rango Edad": "30-39",
+    "Cantidad": 262598
+  },
+  {
+    "Departamento": "Bolivar",
+    "Rango Edad": "40-49",
+    "Cantidad": 176197
+  },
+  {
+    "Departamento": "Bolivar",
+    "Rango Edad": "50-59",
+    "Cantidad": 122945
+  },
+  {
+    "Departamento": "Bolivar",
+    "Rango Edad": "60-69",
+    "Cantidad": 70262
+  },
+  {
+    "Departamento": "Bolivar",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 30127
+  },
+  {
+    "Departamento": "Cesar",
+    "Rango Edad": "0-17",
+    "Cantidad": 10
+  },
+  {
+    "Departamento": "Cesar",
+    "Rango Edad": "18-29",
+    "Cantidad": 118
+  },
+  {
+    "Departamento": "Cesar",
+    "Rango Edad": "30-39",
+    "Cantidad": 163
+  },
+  {
+    "Departamento": "Cesar",
+    "Rango Edad": "40-49",
+    "Cantidad": 72
+  },
+  {
+    "Departamento": "Cesar",
+    "Rango Edad": "50-59",
+    "Cantidad": 39
+  },
+  {
+    "Departamento": "Cesar",
+    "Rango Edad": "60-69",
+    "Cantidad": 20
+  },
+  {
+    "Departamento": "Cesar",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 6
+  },
+  {
+    "Departamento": "Choco",
+    "Rango Edad": "0-17",
+    "Cantidad": 53
+  },
+  {
+    "Departamento": "Choco",
+    "Rango Edad": "18-29",
+    "Cantidad": 1933
+  },
+  {
+    "Departamento": "Choco",
+    "Rango Edad": "30-39",
+    "Cantidad": 775
+  },
+  {
+    "Departamento": "Choco",
+    "Rango Edad": "40-49",
+    "Cantidad": 165
+  },
+  {
+    "Departamento": "Choco",
+    "Rango Edad": "50-59",
+    "Cantidad": 126
+  },
+  {
+    "Departamento": "Choco",
+    "Rango Edad": "60-69",
+    "Cantidad": 79
+  },
+  {
+    "Departamento": "Choco",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 33
+  },
+  {
+    "Departamento": "Choco",
+    "Rango Edad": "S/E",
+    "Cantidad": 2
+  },
+  {
+    "Departamento": "Cundinamarca",
+    "Rango Edad": "18-29",
+    "Cantidad": 264
+  },
+  {
+    "Departamento": "Cundinamarca",
+    "Rango Edad": "30-39",
+    "Cantidad": 65
+  },
+  {
+    "Departamento": "Cundinamarca",
+    "Rango Edad": "40-49",
+    "Cantidad": 8
+  },
+  {
+    "Departamento": "Guainía",
+    "Rango Edad": "0-17",
+    "Cantidad": 15
+  },
+  {
+    "Departamento": "Guainía",
+    "Rango Edad": "18-29",
+    "Cantidad": 55
+  },
+  {
+    "Departamento": "Guainía",
+    "Rango Edad": "30-39",
+    "Cantidad": 72
+  },
+  {
+    "Departamento": "Guainía",
+    "Rango Edad": "40-49",
+    "Cantidad": 53
+  },
+  {
+    "Departamento": "Guainía",
+    "Rango Edad": "50-59",
+    "Cantidad": 48
+  },
+  {
+    "Departamento": "Guainía",
+    "Rango Edad": "60-69",
+    "Cantidad": 18
+  },
+  {
+    "Departamento": "Guainía",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 5
+  },
+  {
+    "Departamento": "La Guajira",
+    "Rango Edad": "0-17",
+    "Cantidad": 7548
+  },
+  {
+    "Departamento": "La Guajira",
+    "Rango Edad": "18-29",
+    "Cantidad": 12440
+  },
+  {
+    "Departamento": "La Guajira",
+    "Rango Edad": "30-39",
+    "Cantidad": 13567
+  },
+  {
+    "Departamento": "La Guajira",
+    "Rango Edad": "40-49",
+    "Cantidad": 12456
+  },
+  {
+    "Departamento": "La Guajira",
+    "Rango Edad": "50-59",
+    "Cantidad": 10081
+  },
+  {
+    "Departamento": "La Guajira",
+    "Rango Edad": "60-69",
+    "Cantidad": 7549
+  },
+  {
+    "Departamento": "La Guajira",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 3623
+  },
+  {
+    "Departamento": "Magdalena",
+    "Rango Edad": "0-17",
+    "Cantidad": 2311
+  },
+  {
+    "Departamento": "Magdalena",
+    "Rango Edad": "18-29",
+    "Cantidad": 4372
+  },
+  {
+    "Departamento": "Magdalena",
+    "Rango Edad": "30-39",
+    "Cantidad": 5345
+  },
+  {
+    "Departamento": "Magdalena",
+    "Rango Edad": "40-49",
+    "Cantidad": 3984
+  },
+  {
+    "Departamento": "Magdalena",
+    "Rango Edad": "50-59",
+    "Cantidad": 2880
+  },
+  {
+    "Departamento": "Magdalena",
+    "Rango Edad": "60-69",
+    "Cantidad": 1983
+  },
+  {
+    "Departamento": "Magdalena",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 933
+  },
+  {
+    "Departamento": "Nariño",
+    "Rango Edad": "0-17",
+    "Cantidad": 20978
+  },
+  {
+    "Departamento": "Nariño",
+    "Rango Edad": "18-29",
+    "Cantidad": 33946
+  },
+  {
+    "Departamento": "Nariño",
+    "Rango Edad": "30-39",
+    "Cantidad": 36476
+  },
+  {
+    "Departamento": "Nariño",
+    "Rango Edad": "40-49",
+    "Cantidad": 25188
+  },
+  {
+    "Departamento": "Nariño",
+    "Rango Edad": "50-59",
+    "Cantidad": 16210
+  },
+  {
+    "Departamento": "Nariño",
+    "Rango Edad": "60-69",
+    "Cantidad": 9933
+  },
+  {
+    "Departamento": "Nariño",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 3842
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Rango Edad": "0-17",
+    "Cantidad": 28949
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Rango Edad": "18-29",
+    "Cantidad": 47280
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Rango Edad": "30-39",
+    "Cantidad": 57175
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Rango Edad": "40-49",
+    "Cantidad": 42145
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Rango Edad": "50-59",
+    "Cantidad": 33264
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Rango Edad": "60-69",
+    "Cantidad": 24712
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 12404
+  },
+  {
+    "Departamento": "Putumayo",
+    "Rango Edad": "0-17",
+    "Cantidad": 1317
+  },
+  {
+    "Departamento": "Putumayo",
+    "Rango Edad": "18-29",
+    "Cantidad": 2318
+  },
+  {
+    "Departamento": "Putumayo",
+    "Rango Edad": "30-39",
+    "Cantidad": 2689
+  },
+  {
+    "Departamento": "Putumayo",
+    "Rango Edad": "40-49",
+    "Cantidad": 1894
+  },
+  {
+    "Departamento": "Putumayo",
+    "Rango Edad": "50-59",
+    "Cantidad": 1088
+  },
+  {
+    "Departamento": "Putumayo",
+    "Rango Edad": "60-69",
+    "Cantidad": 466
+  },
+  {
+    "Departamento": "Putumayo",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 158
+  },
+  {
+    "Departamento": "Quindío",
+    "Rango Edad": "0-17",
+    "Cantidad": 4681
+  },
+  {
+    "Departamento": "Quindío",
+    "Rango Edad": "18-29",
+    "Cantidad": 2757
+  },
+  {
+    "Departamento": "Quindío",
+    "Rango Edad": "30-39",
+    "Cantidad": 2571
+  },
+  {
+    "Departamento": "Quindío",
+    "Rango Edad": "40-49",
+    "Cantidad": 2486
+  },
+  {
+    "Departamento": "Quindío",
+    "Rango Edad": "50-59",
+    "Cantidad": 2256
+  },
+  {
+    "Departamento": "Quindío",
+    "Rango Edad": "60-69",
+    "Cantidad": 1791
+  },
+  {
+    "Departamento": "Quindío",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 827
+  },
+  {
+    "Departamento": "Risaralda",
+    "Rango Edad": "0-17",
+    "Cantidad": 9005
+  },
+  {
+    "Departamento": "Risaralda",
+    "Rango Edad": "18-29",
+    "Cantidad": 7125
+  },
+  {
+    "Departamento": "Risaralda",
+    "Rango Edad": "30-39",
+    "Cantidad": 8716
+  },
+  {
+    "Departamento": "Risaralda",
+    "Rango Edad": "40-49",
+    "Cantidad": 7263
+  },
+  {
+    "Departamento": "Risaralda",
+    "Rango Edad": "50-59",
+    "Cantidad": 6046
+  },
+  {
+    "Departamento": "Risaralda",
+    "Rango Edad": "60-69",
+    "Cantidad": 4005
+  },
+  {
+    "Departamento": "Risaralda",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 2048
+  },
+  {
+    "Departamento": "San Andrés y Providencia",
+    "Rango Edad": "0-17",
+    "Cantidad": 4731
+  },
+  {
+    "Departamento": "San Andrés y Providencia",
+    "Rango Edad": "18-29",
+    "Cantidad": 7285
+  },
+  {
+    "Departamento": "San Andrés y Providencia",
+    "Rango Edad": "30-39",
+    "Cantidad": 9878
+  },
+  {
+    "Departamento": "San Andrés y Providencia",
+    "Rango Edad": "40-49",
+    "Cantidad": 6520
+  },
+  {
+    "Departamento": "San Andrés y Providencia",
+    "Rango Edad": "50-59",
+    "Cantidad": 5053
+  },
+  {
+    "Departamento": "San Andrés y Providencia",
+    "Rango Edad": "60-69",
+    "Cantidad": 3319
+  },
+  {
+    "Departamento": "San Andrés y Providencia",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 1458
+  },
+  {
+    "Departamento": "Santander",
+    "Rango Edad": "0-17",
+    "Cantidad": 1017
+  },
+  {
+    "Departamento": "Santander",
+    "Rango Edad": "18-29",
+    "Cantidad": 1018
+  },
+  {
+    "Departamento": "Santander",
+    "Rango Edad": "30-39",
+    "Cantidad": 1640
+  },
+  {
+    "Departamento": "Santander",
+    "Rango Edad": "40-49",
+    "Cantidad": 1206
+  },
+  {
+    "Departamento": "Santander",
+    "Rango Edad": "50-59",
+    "Cantidad": 857
+  },
+  {
+    "Departamento": "Santander",
+    "Rango Edad": "60-69",
+    "Cantidad": 627
+  },
+  {
+    "Departamento": "Santander",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 336
+  },
+  {
+    "Departamento": "Sucre",
+    "Rango Edad": "18-29",
+    "Cantidad": 78
+  },
+  {
+    "Departamento": "Sucre",
+    "Rango Edad": "30-39",
+    "Cantidad": 102
+  },
+  {
+    "Departamento": "Sucre",
+    "Rango Edad": "40-49",
+    "Cantidad": 90
+  },
+  {
+    "Departamento": "Sucre",
+    "Rango Edad": "50-59",
+    "Cantidad": 46
+  },
+  {
+    "Departamento": "Sucre",
+    "Rango Edad": "60-69",
+    "Cantidad": 8
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Rango Edad": "0-17",
+    "Cantidad": 37365
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Rango Edad": "18-29",
+    "Cantidad": 38789
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Rango Edad": "30-39",
+    "Cantidad": 46808
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Rango Edad": "40-49",
+    "Cantidad": 36883
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Rango Edad": "50-59",
+    "Cantidad": 28460
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Rango Edad": "60-69",
+    "Cantidad": 15632
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 6879
+  },
+  {
+    "Departamento": "Vichada",
+    "Rango Edad": "0-17",
+    "Cantidad": 87
+  },
+  {
+    "Departamento": "Vichada",
+    "Rango Edad": "18-29",
+    "Cantidad": 212
+  },
+  {
+    "Departamento": "Vichada",
+    "Rango Edad": "30-39",
+    "Cantidad": 257
+  },
+  {
+    "Departamento": "Vichada",
+    "Rango Edad": "40-49",
+    "Cantidad": 238
+  },
+  {
+    "Departamento": "Vichada",
+    "Rango Edad": "50-59",
+    "Cantidad": 146
+  },
+  {
+    "Departamento": "Vichada",
+    "Rango Edad": "60-69",
+    "Cantidad": 97
+  },
+  {
+    "Departamento": "Vichada",
+    "Rango Edad": "70 o Más",
+    "Cantidad": 35
+  }
+]
